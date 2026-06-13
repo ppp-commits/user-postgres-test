@@ -1,0 +1,62 @@
+﻿# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+
+# ASP.NET Core
+appsettings.Development.json
+
+# Publish output
+publish/
+wwwroot/dist/
+
+# Test Results
+TestResults/
+
+# Entity Framework
+*.dbmdl
+
+# SQL Server
+*.mdf
+*.ldf
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Azure
+.publishsettings
+
+# Environment files
+.env
+.env.*
+
+# Secrets
+secrets.json
+
+# Coverage Reports
+coverage/
+coverage-report/
+
+# Generated files
+Generated/
